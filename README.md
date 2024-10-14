@@ -15,7 +15,7 @@ The analysis focused on AtliQ Hardware's sales, product, customer, and regional 
 -  🛒 Customer Behavior Insights: Optimized targeting and retention strategies by analyzing key patterns in customer behavior.
 -  🔮 Predictive Supply Chain Forecasting: Enhanced supply chain management by deploying predictive models to forecast future demands accurately.
 
-- ## 🛠️ Skills Developed
+ ## 🛠️ Skills Developed
 
 -  🔧 Custom User-Defined Functions (UDFs): Developed tailored functions to address specific business requirements, improving the flexibility of data analysis.
 -  👁️ Database Views: Implemented and optimized views to simplify complex data retrieval and management.
@@ -25,7 +25,7 @@ The analysis focused on AtliQ Hardware's sales, product, customer, and regional 
 -  🔍 Database Indexing: Significantly enhanced query performance through strategic indexing and system optimizations.
 -  🔗 Data Integrity & ER Diagrams: Ensured data integrity across all workflows by designing robust entity-relationship diagrams that mirror business processes
 
-- ## 📈 Key Findings
+ ## 📈 Key Findings
 -  🏆 Top Sales Performers: In fiscal year 2021, Amazon emerged as the leading sales channel with $109.03M in net sales, followed closely by AtliQ Exclusive with $79.92M.
 -  🌍 Regional Insights: India was the top-performing region, generating $210.67M in net sales, while the USA followed with $132.05M.
 -  💡 Sales Contribution: Amazon contributed 13.23% to AtliQ Hardware’s total net sales in fiscal 2021.
